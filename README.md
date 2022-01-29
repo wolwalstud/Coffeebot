@@ -10,3 +10,5 @@ Die Pakete in diesem Repository enthalten sowohl das GUI, als auch die nötigen 
 ![alt text](https://github.com/wolwalstud/coffeebot/blob/main/startside.png)
 
 ![alt text](https://github.com/wolwalstud/coffeebot/blob/main/gui.png)
+
+![alt text](https://github.com/wolwalstud/coffeebot/blob/main/kalibration.png)
