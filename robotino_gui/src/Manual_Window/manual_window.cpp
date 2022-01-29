@@ -11,7 +11,7 @@ Manual_Window::Manual_Window(QWidget *parent) :
 {   
     ui->setupUi(this);
     
-    this->setWindowTitle("Turtlesim Teleoparation ");
+    this->setWindowTitle("Coffeebot Kalibration");
     
     ros_f = new _Ros();
     closed.data=false; 
