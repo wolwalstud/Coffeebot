@@ -1,4 +1,4 @@
-# coffeebot
+# Coffeebot
 
 Dieses Projekt wurde im Rahmen eine Masterarbeit erstellt. Es handelt sich um einen mechatronisch erweiterten Roboter, welcher mithilfe eines GUI auf verschiedene Positionen kalibriert werden kann und dorthin geschickt werden kann. Zusätzlich ist auf dem Roboter eine Kaffeemaschine montiert, mit welchen sich der Nutzer in Genuss von frischen Kaffee kommt.
 
